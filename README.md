@@ -6,6 +6,7 @@
 
 * React
 * Serverless
+* S3
 * AWS
 
 
