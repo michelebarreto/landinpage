@@ -8,7 +8,7 @@ function Header() {
         <div id="main">
         <Navbar/>
         <div className="name">
-        <h1><span>Landing Page Minions BCG</span></h1>
+        <h1><span>Landing Page Minions</span></h1>
         <p className='detalis'>Seres amarelos milenares, os minions têm uma missão: servir aos maiores vilões.</p>
         
         <a href='#' className='cv-btn'> Saiba Mais </a>
