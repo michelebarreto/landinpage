@@ -1,3 +1,18 @@
+# Landing Page Minions 🍌
+
+<h1>Projeto Landing Page Minons</h1>
+
+<h2>🛠 Tecnologias </h2>
+
+* React
+* Serverless
+* AWS
+
+
+![Apresentação](https://studiosol-a.akamaihd.net/uploadfile/letras/playlists/0/d/e/2/0de2c0738e0a42838f501f8f78d69738.jpg)
+![site](http://2.bp.blogspot.com/-ObSvRnXithM/Uj3Z-Vkl-8I/AAAAAAAAAVk/4sK24yQCSsQ/s1600/despicable-me-2-minion-icon-8.png)site: http://minionspage-aws.s3-website-us-east-1.amazonaws.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
