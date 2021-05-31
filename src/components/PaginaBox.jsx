@@ -10,9 +10,9 @@ function PaginaBox(props) {
         </div>
         <div className='s-b-text'>
         <h2>{props.title}</h2>
-        <p>Venha comprar o seu!! 🍌</p>
+        <p>Venha comprar o seu Minion!! 🍌</p>
         </div>
-            
+                       
         </div>
     )
 }
